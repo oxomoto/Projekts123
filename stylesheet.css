@@ -70,9 +70,16 @@ input:invalid {
 
     #logo,
     #coming {
-        100vw;
+        width: 70vw;
+        padding: 1em;
     }
 
-    #logo {}
+    #logo {
+        width: 85vw;
+        padding-top: 15vh;
+    }
 
+    form {
+        width: 80vw;
+    }
 }
